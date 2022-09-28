@@ -18,6 +18,7 @@ public class Persona {
 		}
 	}
 	public static void main(String[] args) {
+		//Chequeo final
 		Scanner scanner = new Scanner(System.in);
 		String nombre, apellidos;
 		int edad;
